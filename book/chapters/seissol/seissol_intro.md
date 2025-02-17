@@ -5,7 +5,7 @@
 </p>
 
 
-[SeisSol](https://seissol.org) is an open-source software for simulating seissol wave phenomena and earthquake dynamics. 
+[SeisSol](https://seissol.org) is an open-source software for simulating seismic wave phenomena and earthquake dynamics. 
 
 The SCOPED tutorials guide you through setting up and running SeisSol simulations. In the first tutorial, we demonstrate how to construct a basic SeisSol simulation by meshing a simple fault geometry and parameterizing on-fault friction and initial stress conditions using the TPV tutorial. The second tutorial covers wave propagation using a kinematic finite-fault source model, illustrated with the Northridge example. Finally the third tutorial explores fully dynamic rupture simulations on complex fault networks, using the Kaikoura earthquake as a case study.
 
