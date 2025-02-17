@@ -81,6 +81,10 @@ parts:
     # - file: chapters/geosmart-seis/todo
     # - file: chapters/geosmart-seis/questions
     # - file: chapters/geosmart-seis/troubleshooting
+    #
+- caption: SeisSol
+  chapters:
+    - file: chapters/seissol/seissol_intro
 
 
 - caption: SPECFEM
